@@ -1,0 +1,31 @@
+source_row,section,category,role_group,item,date,days,rate,prep,day_x_rate,stated_total,amount,invoice,paid,contract
+2,Crew,Above-the-line crew,ATL,Director,,1,7200,,7200,7200,7200,True,True,True
+3,Crew,Above-the-line crew,ATL,Producer,,8,520,,4160,4160,4160,True,True,True
+4,Crew,Above-the-line crew,ATL,Line producer,,8,440,,3520,3520,3520,True,True,True
+5,Crew,Below-the-line crew,BTL,1st AD,,8,340,,2720,2720,2720,True,True,True
+6,Crew,Below-the-line crew,BTL,Director of photography,,8,560,,4480,4480,4480,True,True,True
+7,Crew,Below-the-line crew,BTL,Camera assistant,,8,240,,1920,1920,1920,True,True,True
+8,Crew,Below-the-line crew,BTL,Gaffer,,8,360,,2880,2880,2880,True,True,True
+9,Crew,Below-the-line crew,BTL,Sound mixer,,8,340,,2720,2720,2720,True,True,True
+10,Crew,Below-the-line crew,BTL,Hair & makeup,,8,300,,2400,2400,2400,True,True,True
+11,Crew,Below-the-line crew,BTL,Production designer,,8,380,,3040,3040,3040,True,True,True
+12,Cast,Cast,Lead,Lead (F),,8,520,,4160,4160,4160,True,True,True
+13,Cast,Cast,Lead,Lead (M),,8,500,,4000,4000,4000,True,True,True
+14,Cast,Cast,Supporting,Supporting 1,,4,260,,1040,1040,1040,True,True,True
+15,Cast,Cast,Supporting,Supporting 2,,3,240,,720,720,720,True,True,True
+16,Cast,Cast,Day player,Day player 1,,1,200,,200,200,200,True,True,True
+17,Cast,Cast,Background,Background 1,,2,130,,260,260,260,True,True,True
+18,Rentals & locations,Locations,,Location: primary set,,4,1800,,7200,7200,7200,,True,
+19,Rentals & locations,Locations,,Location: standing sets,,3,1200,,3600,3600,3600,,True,
+20,Rentals & locations,Gear & equipment,,Camera & lighting package,,8,650,,5200,5200,5200,,True,
+21,Other,Insurance,,Production insurance,,,,,,3100,3100,,True,
+22,Other,"Art, props & wardrobe",,Props,,,,,,2100,2100,,True,
+23,Other,"Art, props & wardrobe",,Wardrobe purchases,,,,,,1800,1800,,True,
+24,Other,Post,,"Editing (quoted as CNY 40,000)",,,,,,4800,4800,,True,
+25,Catering & crafty,Catering & crafty,,Catering service,2026-01-10,,,,,2600,2600,,True,
+26,Other,Transport,,Fuel,2026-01-11,,,,,900,900,,True,
+27,Other,Set supplies,,Heaters & hand warmers,2026-01-12,,,,,520,520,,True,
+28,Other,Gear & equipment,,Sound equipment,,,,,,1100,1100,,True,
+29,Other,Post,,Trailer,,,,,,0,0,,True,
+30,Other,Post,,Poster,,,,,,0,0,,True,
+
